@@ -52,7 +52,7 @@ The dataset contains information about unicorn companies, including:
 
 ### Maximum Unicorn Company Valuation per Industry (Sample)
 
-![Maximum valuation in billions per industry](Graphs\\Maximum.png)
+![Maximum valuation in billions per industry](Graphs/Maximum.png)
 
 ## Libraries Used
 
