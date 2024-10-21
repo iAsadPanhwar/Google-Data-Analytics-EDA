@@ -48,7 +48,7 @@ The dataset contains information about unicorn companies, including:
 
 ### Time Taken by Industry to Reach Unicorn Status
 
-![Year taken by industry to be Unicorn](Graphs\\Years Taken.png)
+![Year taken by industry to be Unicorn](Graphs/Years%20Taken.png)
 
 ### Maximum Unicorn Company Valuation per Industry (Sample)
 
